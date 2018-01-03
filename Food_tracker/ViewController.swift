@@ -27,7 +27,7 @@ class ViewController: UIViewController {
     //MARK: Action
     @IBAction func setDefultlabelText(_ sender: UIButton) {
         
-        mealnameLable.text = "Defult Text"
+        mealnameLable.text = "Defulted Text"
     
     }
     
